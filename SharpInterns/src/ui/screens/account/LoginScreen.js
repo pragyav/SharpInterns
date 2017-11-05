@@ -57,7 +57,7 @@ export default class LoginScreen extends Component {
 
 */
 
-    //Pragya Start :: actionLogin()
+    //ChangeStart :: actionLogin()
 
     actionLogin(){
 
@@ -97,7 +97,7 @@ export default class LoginScreen extends Component {
         }
     }
 
-    //Pragya End :: actionLogin()
+    //ChangeEnd :: actionLogin()
 
     //-- Validations --
     getParams() {
